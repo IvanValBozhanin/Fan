@@ -1,0 +1,1 @@
+Project sets up Fan class and prints its properties.
